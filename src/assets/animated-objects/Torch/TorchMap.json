@@ -1,0 +1,146 @@
+{
+	"textures": [
+		{
+			"image": "TorchMap.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 29,
+				"h": 28
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "burn-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 2,
+						"w": 8,
+						"h": 13
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 8,
+						"h": 13
+					}
+				},
+				{
+					"filename": "burn-4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 2,
+						"w": 8,
+						"h": 13
+					},
+					"frame": {
+						"x": 11,
+						"y": 1,
+						"w": 8,
+						"h": 13
+					}
+				},
+				{
+					"filename": "burn-0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 7,
+						"h": 12
+					},
+					"frame": {
+						"x": 21,
+						"y": 1,
+						"w": 7,
+						"h": 12
+					}
+				},
+				{
+					"filename": "burn-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 7,
+						"h": 12
+					},
+					"frame": {
+						"x": 21,
+						"y": 15,
+						"w": 7,
+						"h": 12
+					}
+				},
+				{
+					"filename": "burn-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 8,
+						"h": 11
+					},
+					"frame": {
+						"x": 1,
+						"y": 16,
+						"w": 8,
+						"h": 11
+					}
+				},
+				{
+					"filename": "burn-5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 7,
+						"h": 10
+					},
+					"frame": {
+						"x": 11,
+						"y": 16,
+						"w": 7,
+						"h": 10
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f2f764d39d9fcdffd5bfb4f787002259:6f5d9fd9d788ab25fb3739af3b9dbd27:5fc4c5c2b73e54a9353fabcda6a46305$"
+	}
+}

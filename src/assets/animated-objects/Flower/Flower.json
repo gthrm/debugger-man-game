@@ -1,0 +1,57 @@
+{
+  "columns": 10,
+  "image": "flower glow 16x16.png",
+  "imageheight": 16,
+  "imagewidth": 160,
+  "margin": 0,
+  "name": "Flower",
+  "spacing": 0,
+  "tilecount": 10,
+  "tiledversion": "1.7.2",
+  "tileheight": 16,
+  "tiles": [
+    {
+      "id": 0,
+      "type": "grow"
+    },
+    {
+      "id": 1,
+      "type": "grow"
+    },
+    {
+      "id": 2,
+      "type": "grow"
+    },
+    {
+      "id": 3,
+      "type": "grow"
+    },
+    {
+      "id": 4,
+      "type": "grow"
+    },
+    {
+      "id": 5,
+      "type": "grow"
+    },
+    {
+      "id": 6,
+      "type": "grow"
+    },
+    {
+      "id": 7,
+      "type": "grow"
+    },
+    {
+      "id": 8,
+      "type": "grow"
+    },
+    {
+      "id": 9,
+      "type": "grow"
+    }
+  ],
+  "tilewidth": 16,
+  "type": "tileset",
+  "version": "1.6"
+}

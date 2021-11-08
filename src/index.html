@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        background-color: #000000;
+        min-height: 100vh;
+      }
+      #game {
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      #styled-font {
+        font-family: GameFont;
+        position: absolute;
+        left: -1000px;
+        visibility: hidden;
+      }
+    </style>
+    <style media="screen" type="text/css">
+      @font-face {
+        font-family: GameFont;
+        src: url("./assets/fonts/main.ttf");
+        font-weight: 400;
+        font-weight: normal;
+      }
+    </style>
+    <title>Document</title>
+  </head>
+  <body>
+    <div id="styled-font">.</div>
+    <div id="game"></div>
+  </body>
+</html>
