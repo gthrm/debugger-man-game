@@ -26,7 +26,7 @@ const config = {
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: isProd ? '[name].[contenthash].js' : 'bundle.js',
-    publicPath: '/game/'
+    publicPath: '/debugger-man-game/'
   },
   performance: {
     maxEntrypointSize: 900000,
