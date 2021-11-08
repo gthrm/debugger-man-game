@@ -3,7 +3,7 @@ name: github pages
 on:
   push:
     branches:
-      - with-map # Set a branch name to trigger deployment
+      - main # Set a branch name to trigger deployment
 
 jobs:
   deploy:
